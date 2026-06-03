@@ -1309,9 +1309,6 @@ Infinite sheet:   E = σ/2ε₀
 
 ---
 
-> **🎯 Final Advice:** Read this README once carefully. Then write all derivations on paper without looking. Solve 10 numericals. Revise MCQs. You are ready for your Bihar Board Exam!
->
-> **All the best! आपको परीक्षा में बहुत सफलता मिले! 🙏**
 
 ---
 *Prepared for Bihar Board Class 12 Physics | Chapter 1: Electric Charges and Fields | Based on NCERT Textbook*
